@@ -34,7 +34,7 @@ reliable and scalable solutions.
 ## 📫 Connect With Me
 
 -   **LinkedIn:** [Ahmed Shalaby]([https://linkedin.com/in/](https://www.linkedin.com/in/ahmed-shalaby-7608421b3/)) 
--   **Portfolio:** [ahmedshalaby.xyz](http://ahmedshalaby.xyz)\
+-   **Portfolio:** [ahmedshalaby.xyz](http://ahmedshalaby.xyz)
 -   **Email:** *ahmedshalaby292000@gmail.com*
 
 ------------------------------------------------------------------------

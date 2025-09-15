@@ -1,6 +1,6 @@
 ### Full Software Engineer
 
-🚀 I'm a developer passionate about building apps, games, and systems
+I'm a developer passionate about building apps, games, and systems
 that solve real problems. I work mainly with **JavaScript/TypeScript**,
 but I also create **Flutter apps**, **Unity 3D projects**, and
 experiment with AI integrations. Currently, I'm pursuing a **Master's
@@ -9,7 +9,7 @@ reliable and scalable solutions.
 
 ------------------------------------------------------------------------
 
-## 🔧 Tech Stack
+## Tech Stack
 
 -   **Frontend:** React, Next.js, React Native, Expo, TailwindCSS,
 -   **Backend:** Node.js, Express, Nest.js, PostgreSQL, Firebase,
@@ -21,7 +21,7 @@ reliable and scalable solutions.
 
 ------------------------------------------------------------------------
 
-## 🎯 What I'm Working On
+## What I'm Working On
 
 -   Improving **pose detection & distance estimation** with
     TensorFlow.js
@@ -31,12 +31,9 @@ reliable and scalable solutions.
 
 ------------------------------------------------------------------------
 
-## 📫 Connect With Me
+## Connect With Me
 
 -   **LinkedIn:** [Ahmed Shalaby]([https://linkedin.com/in/](https://www.linkedin.com/in/ahmed-shalaby-7608421b3/)) 
 -   **Portfolio:** [ahmedshalaby.xyz](http://ahmedshalaby.xyz)
 -   **Email:** *ahmedshalaby292000@gmail.com*
 
-------------------------------------------------------------------------
-
-✨ *Always learning, always building.*
